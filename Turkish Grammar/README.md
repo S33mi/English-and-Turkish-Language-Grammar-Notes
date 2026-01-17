@@ -8,5 +8,6 @@ There are in total 2 pdf files.
 		
 
 😅 Just my handwritten notes compiled over time — nothing fancy, but helpful!
+
 Feel free to fork or use as inspiration.
 		

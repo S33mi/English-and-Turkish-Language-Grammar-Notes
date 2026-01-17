@@ -6,3 +6,6 @@ There are in total 2 pdf files.
 	
 		Which means some pages of level C1 are missing i will upload them when i took pictures of my remaining lecture notes.
 		
+
+😅 Just my handwritten notes compiled over time — nothing fancy, but helpful!
+		
